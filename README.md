@@ -1,4 +1,4 @@
-# Production-Level-Age-Related-Macular-Degeneration-ARMD-Test-Codes
+# Production-Level-Age-Related-Macular-Degeneration-ARMD-Test-Inference-Codes
 This repository will help you to test ARMD AI model for binary-class classification using retinal fundus images by employing deep learning (DL) methodology. 
 
 This repository is prepared based on production-level standards.
