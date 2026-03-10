@@ -1,8 +1,6 @@
 # How to test age-related macular degeneration (AMD) model based on deep learning (DL)
 ----
-Name of company: Diagnos Inc.
-Name of department: Research & Development (R&D)
-Team members: Dr. Waziha Kabir, Dr. Adrian Agaldran, Riadh Kobbi
+Author: Dr. Waziha Kabir
 Last modified: January 24, 2022
 ## I. Requirements
 You would require the following Python scripts:
